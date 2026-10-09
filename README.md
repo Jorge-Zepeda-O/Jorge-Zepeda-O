@@ -1,6 +1,8 @@
 Heya! I'm a full-stack developer with an interest towards data and image processing. My stack has been Python/Django + TypeScript/React + PostgreSQL for the past couple of years, developing web apps from end to end, and using SQL + Grafana for analytics.
 
-Since around 2021, nearly all my work has lived in private company repositories, so this profile has been quiet. However, on the side I'm building a C++ game engine from scratch, and working on rebuilding Kagura (the automated dance-rhythm-game chart rater). Some of these other older repos (e.g. KNOT) are from my university / graduate school years.
+Since around 2021, nearly all my work has lived in private company repositories, so this profile has been quiet. However, on the side I'm building a C++ game engine from scratch, and working on rebuilding Kagura (the automated dance-rhythm-game chart rater). Neither of these two are public yet, but you can see the older versions here in my GitHub.
+
+Some of these other older repos (e.g. KNOT) are from my university / graduate school years.
 
 <!--
 **Jorge-Zepeda-O/Jorge-Zepeda-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
